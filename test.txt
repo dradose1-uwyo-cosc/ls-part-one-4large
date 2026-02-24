@@ -1,0 +1,9 @@
+COSC3750_SimpleLS_Assignment.pdf
+README.md
+functions
+go.mod
+gols
+ls-man.txt
+main.go
+test.txt
+testdir
